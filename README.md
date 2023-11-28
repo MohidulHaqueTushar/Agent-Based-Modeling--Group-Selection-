@@ -9,3 +9,5 @@ Simulation of an agent-based model of multi-level selection.
        
     2. Under the pressures of group selection (with war/with groups conflict),
        The altruistic population will increase over time.
+
+I'd like you to please read the term paper for a more technical view and outcome.
