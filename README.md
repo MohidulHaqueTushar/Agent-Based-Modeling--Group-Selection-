@@ -1,6 +1,6 @@
 ## Agent-Based-Modeling
 
-Simulation of an agent-based model of multi-level selection.
+Simulation of an agent-based model of multi-level group selection under a controlled environment.
 
 **This simulation shows two outcomes:**
 
