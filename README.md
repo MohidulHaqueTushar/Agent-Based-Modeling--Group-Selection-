@@ -10,4 +10,16 @@ Simulation of an agent-based model of multi-level group selection under a contro
     2. Under the pressures of group selection (with war/with groups conflict),
        The altruistic population will increase over time.
 
-I'd like you to please read the term paper for a more technical view and outcome.
+The visual representation of the algorithm used for the simulation:
+
+![Algorithm](https://raw.githubusercontent.com/MohidulHaqueTushar/Agent-Based-Modeling--Group-Selection-/main/image/Algorithm.jpg)
+
+The individual output:
+
+![individual_output](https://raw.githubusercontent.com/MohidulHaqueTushar/Agent-Based-Modeling--Group-Selection-/main/image/individual_output.JPG)
+
+The final output:
+
+![final_output](https://raw.githubusercontent.com/MohidulHaqueTushar/Agent-Based-Modeling--Group-Selection-/main/image/Output.JPG)
+
+Please read the term paper for a more technical view and outcome. Thank you very much.
